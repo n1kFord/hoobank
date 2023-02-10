@@ -4,7 +4,7 @@
 
 ### About:
 
-This is an educational website-project about a bank. Whole project styles are written on TailwindCSS.
+This is an educational react-project about a bank. Whole project styles are written on TailwindCSS.
 
 ## How to run:
 
